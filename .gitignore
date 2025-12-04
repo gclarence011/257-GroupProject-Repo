@@ -57,3 +57,6 @@ yarn-error.log*
 *.pth
 *.pt
 !.gitkeep
+data.zip
+data/
+.ipynb_checkpoints/
