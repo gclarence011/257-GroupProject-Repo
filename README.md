@@ -1,6 +1,18 @@
 # AI Image Detection Application
 
 A full-stack application that detects whether an image is AI-generated using a pre-trained deep learning model.
+# Models 
+Our code for training the models is in the models folder.
+- KNN.ipynb : Our EDA on the images and the Training + Evaluation of the KNN model. (Gabriel)
+- Logistic_regression .ipynb : Training and Evaluation of the Logistic Regression. (Soham)
+- SVM.ipynb : Training and Evaluation of the SVM model. (Terin)
+- XGBoost.ipynb : Training and Evaluation of the XGBoost. (Terin)
+- cnn-model.ipynb : Training and Evaluation of the CNN. (Gabriel)
+- svm.ipynb : The same SVM model and code but designed to run in kaggle to run the SHAP analysis (Gabriel)
+- svm_pipeline_grid (1).joblib : The exported svm model
+- xgb_model2.json : The exported XGBoost model
+
+# -------------------------- DEMO ---------------------------
 
 ## 🚀 Quick Start
 
