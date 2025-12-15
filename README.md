@@ -12,7 +12,7 @@ Our code for training the models is in the models folder.
 - svm_pipeline_grid (1).joblib : The exported svm model
 - xgb_model2.json : The exported XGBoost model
 
-# -------------------------- DEMO ---------------------------
+# DEMO
 
 ## 🚀 Quick Start
 
