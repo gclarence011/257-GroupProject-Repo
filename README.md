@@ -14,6 +14,8 @@ Our code for training the models is in the models folder.
 
 # DEMO
 
+Demo link: https://youtu.be/lMtHq4mod6A
+
 ## 🚀 Quick Start
 
 ### Backend Setup
