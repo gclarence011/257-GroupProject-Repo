@@ -12,6 +12,9 @@ Our code for training the models is in the models folder.
 - svm_pipeline_grid (1).joblib : The exported svm model
 - xgb_model2.json : The exported XGBoost model
 
+#Dataset
+The dataset we used for this project is [CIFAKE](https://www.kaggle.com/datasets/birdy654/cifake-real-and-ai-generated-synthetic-images).
+
 # DEMO
 
 Demo link: https://youtu.be/lMtHq4mod6A
